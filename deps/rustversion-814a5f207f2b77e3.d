@@ -1,0 +1,20 @@
+/home/qwik/test/blue-wasp/target/release/deps/librustversion-814a5f207f2b77e3.so: /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/lib.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/attr.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/bound.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/constfn.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/date.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/error.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/expand.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/expr.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/iter.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/release.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/time.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/token.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/version.rs /home/qwik/test/blue-wasp/target/release/build/rustversion-b60f5c61b6d0ab00/out/version.expr
+
+/home/qwik/test/blue-wasp/target/release/deps/rustversion-814a5f207f2b77e3.d: /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/lib.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/attr.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/bound.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/constfn.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/date.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/error.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/expand.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/expr.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/iter.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/release.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/time.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/token.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/version.rs /home/qwik/test/blue-wasp/target/release/build/rustversion-b60f5c61b6d0ab00/out/version.expr
+
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/lib.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/attr.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/bound.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/constfn.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/date.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/error.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/expand.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/expr.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/iter.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/release.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/time.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/token.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/version.rs:
+/home/qwik/test/blue-wasp/target/release/build/rustversion-b60f5c61b6d0ab00/out/version.expr:
+
+# env-dep:OUT_DIR=/home/qwik/test/blue-wasp/target/release/build/rustversion-b60f5c61b6d0ab00/out
